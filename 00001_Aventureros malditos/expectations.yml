@@ -1,4 +1,6 @@
 ---
 expectations:
-- binding: nombresDeMagicos
+- binding: nombresMalditos
   inspection: hasBinding
+- binding: nombresMalditos
+  inspection: hasComposition
